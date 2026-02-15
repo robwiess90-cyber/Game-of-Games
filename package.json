@@ -1,0 +1,23 @@
+{
+  "name": "game-of-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robwiess90-cyber/Game-of-Games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robwiess90-cyber/Game-of-Games/issues"
+  },
+  "homepage": "https://github.com/robwiess90-cyber/Game-of-Games#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
